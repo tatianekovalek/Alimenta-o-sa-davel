@@ -1,6 +1,6 @@
 body {
     .principal{
-        background:#69c767cc;
+        background:#6da42ecc;
         padding:30px;
     }
 
@@ -12,6 +12,28 @@ body {
         text-align: center;
     }
 
-    em strong
+    em strong {
+        color:#000000cc;
+    }
 
-}
+    .itens {
+        font-style: italic 
+    }
+
+    h2 {
+        text-align: center;
+    }
+    ul {
+        display: inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+    }
+
+    .imagemalimentação {
+        width: 50%;
+    }
+
+    .imagemprevenirdoenças {
+        width: 50%;
+    }
